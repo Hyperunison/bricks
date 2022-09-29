@@ -21,6 +21,9 @@
  - Kraken2
  - 
  
+ **Aggregation**
+  - Korrelation
+  - ...
 
 # data format
 
