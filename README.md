@@ -32,6 +32,9 @@
   age: <int>
   gender: <string> (male/famale)
   deseeses: <string>[]
+  additionalData: {}
+  fastqSingle: <string>
+  fastqPaired: <touble(strnig)>
   ...
 }
 ```
