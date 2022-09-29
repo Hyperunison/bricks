@@ -4,6 +4,24 @@
  - A pipeline is a set of connected bricks
  - Each brick may connect with another and transfer data to another
 
+
+## Bricks types
+**Data sources**
+ - IBE
+
+**JSON processing**
+ - Filtering data
+ - Joining data
+
+**Genetic-speific**
+ - Aligning
+ - FastP
+
+**Data visualization**
+ - Kraken2
+ - 
+ 
+
 # data format
 
 ```
